@@ -1,5 +1,7 @@
 # Heart failure prediction
-The main goal of this educational project is to create binary classification model to predict heart failure.
+This educational project was completed as part of a course "Probability theory and mathematical statistics" at TulSU in 2023.
+
+The main goal is to create binary classification model to predict heart failure.
 
 # Dataset
 This dataset from Kaggle was used: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
